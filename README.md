@@ -6,3 +6,4 @@ Ex 5: Write a Program to take input number from user and Tell user whether it is
 Ex 6: Write a recursive function to calculate the sum of first n natural numbers.                           
 Ex 7: Write a recursive function to print all elements in a list.                   
 Hint : Use list & index as parameters.              
+  
