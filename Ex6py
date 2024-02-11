@@ -1,0 +1,7 @@
+def check_evenORodd(num):
+    if(num%2==0):
+        print("EVEN")
+    else:
+        print("ODD")
+num=int(input("Enter Number to Check whether is Even or Odd: ")) 
+check_evenORodd(num)
